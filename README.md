@@ -2,15 +2,17 @@
 
 Windows용 민원답변 도우미의 **배포 파일·한국어 안내서·자동 업데이트 전용 저장소**입니다. 소스 저장소는 비공개로 유지합니다.
 
-[최신 릴리스](https://github.com/newskool4d-sketch/minwon-answer-releases/releases/latest) · [v0.9.0 EXE 내려받기](https://github.com/newskool4d-sketch/minwon-answer-releases/releases/download/v0.9.0/minwon-answer-0.9.0-win-x64.exe) · [한국어 안내서](https://github.com/newskool4d-sketch/minwon-answer-releases/releases/download/v0.9.0/minwon-answer-0.9.0-guide-ko.html)
+[최신 릴리스](https://github.com/newskool4d-sketch/minwon-answer-releases/releases/latest) · [v0.10.0 EXE 내려받기](https://github.com/newskool4d-sketch/minwon-answer-releases/releases/download/v0.10.0/minwon-answer-0.10.0-win-x64.exe) · [한국어 안내서](https://github.com/newskool4d-sketch/minwon-answer-releases/releases/download/v0.10.0/minwon-answer-0.10.0-guide-ko.html)
 
 v0.8.0은 사용자당 기관 프로필 하나, 파일 공유, 소속·성명·연락처 기본 안내, 성명 생략 경고와 확정 안내 보존을 제공합니다. 지역·기관 값은 사용자가 입력합니다.
 
 v0.9.0은 머리말·맺음말·만족도 조사 안내를 기관 프로필에서 직접 설정하고 공유하며 확정 당시 문구를 보존합니다. 지역·기관별 값은 하드코딩하지 않습니다.
 
+v0.10.0은 내부 보고용 민원 요약을 대민 답변과 별도 탭으로 제공하며, 로컬 발췌·수정·저장·복사·다운로드를 지원합니다. 추가 AI 전송이나 지역 맥락 하드코딩 없이 사용합니다.
+
 ## 기존 사용자는 한 번 직접 업데이트하세요
 
-**v0.6.0 이하 사용자는 최신 EXE(v0.9.0)를 한 번 직접 내려받아 실행해야 합니다.** v0.5.3 이하에는 자동 업데이트 기능이 없고, v0.6.0의 업데이트 주소는 일반 사용자에게 열려 있지 않습니다. v0.6.1 이상 사용자는 자동 업데이트로 받을 수 있습니다.
+**v0.6.0 이하 사용자는 최신 EXE(v0.10.0)를 한 번 직접 내려받아 실행해야 합니다.** v0.5.3 이하에는 자동 업데이트 기능이 없고, v0.6.0의 업데이트 주소는 일반 사용자에게 열려 있지 않습니다. v0.6.1 이상 사용자는 자동 업데이트로 받을 수 있습니다.
 
 1. 기존 앱에서 **작업 내보내기**로 작업을 보관하고 앱을 닫습니다.
 2. 최신 EXE를 내려받아 실행하고 필요하면 **작업 불러오기**로 JSON을 엽니다.
